@@ -1,0 +1,8 @@
+{
+    "name": "atmosphere-javascript-bower",
+    "version": "2.0.9-javascript",
+    "main": "./atmosphere-javascript.js",
+    "dependencies": {
+       
+    }
+}
